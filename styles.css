@@ -4,7 +4,8 @@
 
     
 header {
-    background-color: aqua;
+    background-color: rgb(245, 245, 245);
+    font-style: normal;
 }
 body {
   font-family: Arial, sans-serif;
@@ -12,7 +13,7 @@ body {
   padding: 0;
 }
 .cabecalho {
-  background-color: #857d7d;
+  background-color: #070707;
   color: #fff;
   padding: 20px;
   
@@ -37,7 +38,7 @@ th {
 
 
 .rodape {
-  background-color: #333;
+  background-color: #0a0a0a;
   color: #fff;
   padding: 20px;
   
