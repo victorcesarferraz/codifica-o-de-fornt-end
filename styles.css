@@ -1,16 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
-
-
     
 header {
     background-color: rgb(245, 245, 245);
-    font-style: normal;
+    font-family: Arial, sans-serif;
+    
 }
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+  margin: 5px;
+  padding: 10px;
 }
 .cabecalho {
   background-color: #070707;
@@ -32,7 +31,7 @@ th, td {
   padding: 8px;
 }
 th {
-  background-color: #f2f2f2;
+  background-color: #f8f8f8;
   text-align: left;
 }
 
